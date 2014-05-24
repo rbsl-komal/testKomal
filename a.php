@@ -1,1 +1,2 @@
-<?php echo "welcome";>
+<?php echo "welcome";
+echo "how are you";>
